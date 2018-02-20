@@ -1,0 +1,21 @@
+{
+    "name": "khanifzyen/yii2-simplecms",
+    "description": "Simple Content Management System build for yii2, including article management, category management, comment management",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","cms"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "khanifzyen",
+            "email": "khanif.zyen@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "khanifzyen\\simplecms\\": ""
+        }
+    }
+}
